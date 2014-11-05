@@ -1,6 +1,6 @@
 {
-  "name": "leaflet-geocoder-control",
-  "version": "1.0.0",
+  "name": "leaflet-control-geocoder",
+  "version": "0.2.1",
   "description": "A simple geocoder form to locate places. Easily extended to multiple data providers",
   "keywords": [
     "javascript",
@@ -9,7 +9,7 @@
   ],
   "main": [
     "dist/Control.Geocoder.js",
-    "dist/Control.Geocoder.css
+    "dist/Control.Geocoder.css"
   ],
   "dependencies": {
     "leaflet": "~0.7.2"
