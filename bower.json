@@ -8,8 +8,8 @@
     "leaflet"
   ],
   "main": [
-    "Control.Geocoder.js",
-    "Control.Geocoder.css
+    "dist/Control.Geocoder.js",
+    "dist/Control.Geocoder.css
   ],
   "dependencies": {
     "leaflet": "~0.7.2"
