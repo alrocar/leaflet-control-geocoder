@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-control-geocoder",
+  "version": "0.2.1",
+  "homepage": "https://github.com/alrocar/leaflet-control-geocoder",
+  "authors": [
+    "Per Liedman"
+  ],
+  "description": "A simple geocoder form to locate places. Easily extended to multiple data providers",
+  "main": "Control.Geocoder.js",
+  "keywords": [
+    "leaflet",
+    "geocoder",
+    "javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
